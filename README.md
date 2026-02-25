@@ -36,12 +36,13 @@ An interactive Tableau dashboard built to analyse retail sales performance acros
 ---
 
 ## Screenshots
+<img width="1377" height="838" alt="Screen Shot 2021-09-06 at 4 32 43 pm" src="https://github.com/user-attachments/assets/4e972ec6-8e54-45e3-b595-82d3d961e477" />
+<img width="1422" height="857" alt="Screen Shot 2021-09-06 at 4 32 35 pm" src="https://github.com/user-attachments/assets/bf0851e6-23b5-4103-9a05-a7a36c52ee67" />
+<img width="1436" height="853" alt="Screen Shot 2021-09-06 at 4 32 24 pm" src="https://github.com/user-attachments/assets/2b2ccb1c-c011-4415-b15e-459403f97d31" />
+<img width="1422" height="853" alt="Screen Shot 2021-09-06 at 4 32 13 pm" src="https://github.com/user-attachments/assets/01ec1972-f267-4286-b115-9804983dc223" />
+<img width="1389" height="840" alt="Screen Shot 2021-09-06 at 4 32 03 pm" src="https://github.com/user-attachments/assets/fcfd15c5-7638-441e-8bad-816b852d97a5" />
 
-![Dashboard Overview](Screen%20Shot%202021-09-06%20at%204.32.03%20pm.png)
-![Product Performance](Screen%20Shot%202021-09-06%20at%204.32.13%20pm.png)
-![Customer Analysis](Screen%20Shot%202021-09-06%20at%204.32.24%20pm.png)
-![Regional View](Screen%20Shot%202021-09-06%20at%204.32.35%20pm.png)
-![Trend Analysis](Screen%20Shot%202021-09-06%20at%204.32.43%20pm.png)
+
 
 ---
 
